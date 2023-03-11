@@ -7,7 +7,7 @@ package editortexto;
 
 /**
  *
- * @author usuario
+ * @author Rafael Juan Navarro Ramírez
  */
 public class EditorTexto {
 

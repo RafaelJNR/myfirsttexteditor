@@ -22,7 +22,7 @@ import javax.swing.text.StyledEditorKit;
 
 /**
  *
- * @author usuario
+ * @author Rafael Juan Navarro Ramírez
  */
 public class controller implements ActionListener {
 

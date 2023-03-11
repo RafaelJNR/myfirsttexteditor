@@ -20,7 +20,7 @@ import javax.swing.JTextPane;
 
 /**
  *
- * @author usuario
+ * @author Rafael Juan Navarro Ramírez
  */
 public class Frm extends JFrame {
 
